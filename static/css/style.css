@@ -1,0 +1,27 @@
+.btn-primary{
+    background-color: black;
+    border: none;
+}
+.btn-primary:hover{
+    background-color: black;
+    border: none;
+
+}
+.btn-primary:active{
+    background-color: black;
+    border: none;
+
+}
+.btn-primary:focus{
+    background-color: black;
+    border: none !important;
+}
+.btn-primary.disabled, .btn-primary:disabled{
+  background-color: black;
+}
+.btn-primary.disabled, .btn-primary:disabled:hover{
+  background-color: black;
+}
+.btn-primary.disabled, .btn-primary:disabled:s{
+  background-color: black;
+}
